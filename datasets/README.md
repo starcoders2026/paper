@@ -1,11 +1,11 @@
 # Datasets
 
-This folder contains the dataset information and Kaggle dataset links for the three forest management classification modules.
+This folder contains the dataset information and Kaggle notebook links for the three forest management classification modules.
 
 ## Forest / Non-Forest Classification Dataset
 
-Kaggle dataset link:  
-[ADD YOUR KAGGLE DATASET LINK HERE]
+Kaggle notebook link:  
+https://www.kaggle.com/code/projectburak/forest-non-forest
 
 Number of images: 34,678
 
@@ -16,8 +16,8 @@ Classes:
 
 ## Forest Density Classification Dataset
 
-Kaggle dataset link:  
-[ADD YOUR KAGGLE DATASET LINK HERE]
+Kaggle notebook link:  
+https://www.kaggle.com/code/projectburak/density
 
 Number of images: 6,027
 
@@ -29,8 +29,8 @@ Classes:
 
 ## Fire / No-Fire Classification Dataset
 
-Kaggle dataset link:  
-[ADD YOUR KAGGLE DATASET LINK HERE]
+Kaggle notebook link:  
+https://www.kaggle.com/code/projectburak/fire-no-fire
 
 Number of images: 6,601
 
