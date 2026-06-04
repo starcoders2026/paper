@@ -2,7 +2,8 @@
 
 This repository contains the experimental notebooks, dataset information, and result reports for the study:
 
-**EfficientNet-B2-Based Transfer Learning for Forest Management Tasks**
+**Transfer Learning for Forest Image Classification
+Using EfficientNet-B2**
 
 The project includes three image classification modules:
 
